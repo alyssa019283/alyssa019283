@@ -1,7 +1,7 @@
 # Hello! 👋 
 
 # Programming Language Metrics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssa019283&layout=donut&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssa019283&layout=donut&theme=algolia)
 
 
 <!--
