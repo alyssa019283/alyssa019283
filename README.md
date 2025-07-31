@@ -3,6 +3,8 @@
 # Programming Language Metrics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssa019283&layout=donut&theme=algolia)
 
+# GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alyssa019283&show_icons=true&theme=algolia)
 
 <!--
 **alyssa019283/alyssa019283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
