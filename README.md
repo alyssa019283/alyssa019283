@@ -1,6 +1,6 @@
 # Hello! 👋 
 
-A Python, C and Java programmer with an interest in low-level communication protocols and cryptography. Also experienced in full-stack development of tools.
+A Python, Go, C, Rust and Java programmer with an interest in low-level communication protocols and cryptography. Also experienced in full-stack development of tools.
 
 ## Programming Language Metrics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssa019283&layout=donut&theme=algolia)
