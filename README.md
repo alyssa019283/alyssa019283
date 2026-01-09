@@ -2,9 +2,6 @@
 
 A Python, Go, C, Rust and Java programmer with an interest in low-level communication protocols and cryptography. Also experienced in full-stack development of tools.
 
-## Programming Language Metrics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssa019283&layout=donut&theme=algolia)
-
 ## TryHackMe
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/alyred.png)
 
